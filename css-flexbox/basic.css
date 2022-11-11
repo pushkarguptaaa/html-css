@@ -1,0 +1,21 @@
+html,
+body {
+  box-sizing: border-box;
+  height: 100%;
+}
+.container {
+  background: green;
+}
+li {
+  padding: 10px;
+  font-size: 2em;
+  list-style: none;
+}
+.search-input {
+  background: inherit;
+  font-size: inherit;
+  width: 100%;
+  color: inherit;
+  border: none;
+  outline: none;
+}
